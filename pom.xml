@@ -62,11 +62,5 @@
         </repository>
     </repositories>
 
-    <distributionManagement>
-        <repository>
-            <id>myMavenRepo.write</id>
-            <url></url>
-        </repository>
-    </distributionManagement>
 
 </project>
